@@ -1,1 +1,20 @@
-
+<root>
+  <Component>Registration form</Component>
+  <Type_x0020_of_x0020_testing>UI</Type_x0020_of_x0020_testing>
+  <ID>1</ID>
+  <Summary>Registration form Unmarked mandatory fields on the Registration form</Summary>
+  <Descriptions>STR</Descriptions>
+  <STR>
+    <STR1>Navigate to the website Registration form</STR1>
+    <STR2>Observe the Registration form fields requirement for mandatory use</STR2>
+  </STR>
+  <Actual_x0020_result>required fields are not marked</Actual_x0020_result>
+  <Expected_x0020_result>required fields are marked</Expected_x0020_result>
+  <Severity>Trivial</Severity>
+  <Environment>
+    <Build_x0020_version>123</Build_x0020_version>
+    <Device>PC</Device>
+    <Software_x0020_version>Windows 10: 64-bit</Software_x0020_version>
+    <Browser_x0020_version>99.0.4844.74</Browser_x0020_version>
+  </Environment>
+</root>
